@@ -14,6 +14,7 @@ func main() {
 	fmt.Println("蔡京")
 	fmt.Println("龚江华second")
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 	fmt.Println("啊这")
 =======
@@ -21,4 +22,13 @@ func main() {
 	fmt.Println("谁如果乱提交就完了")
 >>>>>>> gjh
 >>>>>>> remotes/origin/master
+=======
+=======
+	fmt.Println("谁如果乱提交就完了")
+>>>>>>> gjh
+=======
+>>>>>>> master
+	fmt.Println("啊这")
+>>>>>>> remotes/origin/ouyang
+>>>>>>> master
 }
