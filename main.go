@@ -15,4 +15,5 @@ func main() {
 
 	fmt.Println("啊这")
 	fmt.Println("不是吧不是吧")
+	fmt.Println("我好懵")
 }
