@@ -17,4 +17,5 @@ func main() {
 	fmt.Println("不是吧不是吧")
 	fmt.Println("我好懵")
 	fmt.Println("完了完了完了")
+	fmt.Println("瞎搞")
 }
